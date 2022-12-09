@@ -1,0 +1,16 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+td, th {
+    border: 1px solid lightgrey;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: lightgrey;
+}
+
+#total_row {
+    background-color: lightgreen;
+}
